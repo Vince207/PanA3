@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PanA3 Spanish</string>
+    <string name="button_go">Ir</string>
+    <string name="mesa_text">San Diego Mesa College</string>
+    <string name="yahoo_text">Yahoo</string>
+    <string name="choice_text">Por favor elija un sitio web</string>
+</resources>
